@@ -2,11 +2,11 @@ data:
   rgb:
     wms_url: https://www.wms.nrw.de/geobasis/wms_nw_dop
     wms_layer: nw_dop_rgb
-    raster_path: null
+
   nir:
     wms_url: https://www.wms.nrw.de/geobasis/wms_nw_dop
     wms_layer: nw_dop_nir
-    raster_path: null
+
   epsg_code: 25832
   boundary_shape_file_path: null # /Pfad/zu/boundary_shape_file.shp
   bounding_box:
